@@ -9,11 +9,7 @@ This cli is the easy way to create urls for mongodb and mongoose
 ### Installation
 
 ```
-# Using npm:
 npm install -g mongo-url-cli
-
-# Using yarn:
-yarn global add mongo-url-cli
 ```
 
 

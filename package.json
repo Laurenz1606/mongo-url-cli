@@ -1,6 +1,6 @@
 {
   "name": "mongo-url-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A tool to generate a mongodb uri from the command-line!",
   "main": "./bin/cli.js",
   "bin": {
