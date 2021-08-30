@@ -1,0 +1,20 @@
+{
+  "name": "mongo-url-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main" : "bin/cli.js",
+  "bin": {
+    "mongo-url": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^8.1.2",
+    "mongodb-uri": "^0.9.7",
+    "yargs": "^17.1.1"
+  }
+}
